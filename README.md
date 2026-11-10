@@ -1,1 +1,0 @@
-# netscaler-system-upgrade
